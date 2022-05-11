@@ -1,3 +1,4 @@
 # conflict-resolution
 
-trying this out 
+remote
+
