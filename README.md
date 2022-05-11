@@ -1,3 +1,3 @@
 # conflict-resolution
 
-trying this out 
+local
